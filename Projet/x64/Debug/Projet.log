@@ -1,0 +1,21 @@
+﻿  Turret.cpp
+c:\users\sift-\desktop\projet\projet\src\turret.cpp(148): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  MyGraphicEngine.cpp
+c:\users\sift-\desktop\projet\projet\src\mygraphicengine.cpp(74): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  MyGameEngine.cpp
+c:\users\sift-\desktop\projet\projet\src\mygameengine.cpp(171): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  MyControlEngine.cpp
+c:\users\sift-\desktop\projet\projet\src\mycontrolengine.cpp(327): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  Missile.cpp
+c:\users\sift-\desktop\projet\projet\src\missile.cpp(35): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  Menu.cpp
+c:\users\sift-\desktop\projet\projet\src\menu.cpp(17): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  main.cpp
+c:\users\sift-\desktop\projet\projet\src\main.cpp(54): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  Game.cpp
+c:\users\sift-\desktop\projet\projet\src\game.cpp(57): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  Dalle.cpp
+c:\users\sift-\desktop\projet\projet\src\dalle.cpp(154): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  Asteroid.cpp
+c:\users\sift-\desktop\projet\projet\src\asteroid.cpp(36): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  Génération de code en cours...
